@@ -1,5 +1,3 @@
-Name: Pranali Loke        NetId: ploke2
-
 Steps used to run the program:
 
 1)Install Python 3.x
